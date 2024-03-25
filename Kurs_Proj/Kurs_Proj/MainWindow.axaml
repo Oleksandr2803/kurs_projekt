@@ -1,0 +1,230 @@
+<Window xmlns="https://github.com/avaloniaui"
+		xmlns:srv="using:Tachyon.Services"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignMinWidth="800" d:DesignMinHeight="450"
+        x:Class="Kurs_Proj.MainWindow"
+        Title="Kurs_Proj">
+	
+	<Window.Styles>
+		 <StyleInclude Source="/Styles/AppStyles.axaml"/>
+	</Window.Styles>
+	
+
+	<Grid ColumnDefinitions="500*,100*,100*,100*"
+		  RowDefinitions="200*,200*,200*,200*,200*,200*,200*,200*"
+		  Margin="4">
+
+		<Border Grid.Column="0"
+				Grid.Row="0"
+				Grid.RowSpan="7"
+				BorderBrush="Black"
+				BorderThickness="1">
+			
+			<StackPanel	x:Name="backgroundSream"
+				Margin="4"
+				Background="Pink">
+				<TextBlock Text="Stream OFF"
+						   x:Name="StreamText"
+						   Classes="UIText"/>
+			</StackPanel>
+		</Border>
+		
+		<Button x:Name="PhotoButton"
+				Grid.Column="1"
+				Grid.Row="0"
+				Classes="HighButtonStyle"
+				Click="Photo"
+				IsEnabled="False">
+			<TextBlock Text="Photo"
+					   TextAlignment="Center"
+					   VerticalAlignment="Center"/>
+		</Button>
+		
+		<Button x:Name="ReloadButton"
+				Grid.Column="2"
+				Grid.Row="0"
+				Classes="HighButtonStyle"
+				Click="Reload"
+				IsEnabled="False">
+			<TextBlock Text="Reload"
+					   TextAlignment="Center"
+					   VerticalAlignment="Center"/>
+		</Button>
+
+		
+		<Button x:Name="StreamOnButton"
+				Classes="HighButtonStyle"
+				Click="StreamOn"
+				Background="Lightgreen"
+				Grid.Column="3"
+				Grid.Row="0"
+				IsEnabled="False">
+			<TextBlock x:Name="StreamOnButtonText"
+					   Text="On Stream"
+					   TextAlignment="Center"
+					   VerticalAlignment="Center"/>
+		</Button>
+
+
+		<WrapPanel Grid.Column="1"
+				   Grid.Row="1">
+			
+			<TextBox Watermark="Input IP to connect"
+					 MinWidth="50"
+					 x:Name="ip_input"/>
+			
+			<Button x:Name="connectButton"
+					Classes="HighButtonStyle"
+					Grid.Row="1"
+					Grid.Column="1"
+					Click="Connect"
+					Background="Lightgreen">
+				<TextBlock x:Name="connectButtonText"
+						   Text="Connect"
+						   TextAlignment="Center"
+						   VerticalAlignment="Center"/>
+			</Button>
+		</WrapPanel>
+
+		<RepeatButton x:Name="ForwardButton"
+					  Classes="ControlButtons"
+					  Grid.Row="1"
+					  Grid.Column="2"
+					  Click="Forward"
+					  HorizontalAlignment="Center"
+					  IsEnabled="False">
+			<TextBlock Text="&#xE0E4;"
+					   Classes="ArrowButton"/>
+		</RepeatButton>
+
+		<RepeatButton x:Name="LeftButton"
+					  IsEnabled="False"
+					  Classes="ControlButtons"
+					  Grid.Row="2"
+					  Grid.Column="1"
+					  Click="Left"
+					  HorizontalAlignment="Center">
+			<TextBlock Text="&#xE0E2;"
+					   Classes="ArrowButton"/>
+		</RepeatButton>
+
+
+		<Button x:Name="UpButton"
+				Classes="ControlButtons"
+				Grid.Row="2"
+				Grid.Column="2"
+				Background="LightGreen"
+				Click="UP"
+				IsEnabled="False">
+			<TextBlock x:Name="UpButtonText"
+					   Text="UP" 
+					   Classes="ArrowButton"/>
+		</Button>
+
+		<RepeatButton x:Name="RightButton"
+					  Classes="ControlButtons"
+					  Grid.Row="2"
+					  Grid.Column="3"
+					  Click="Right"
+					  IsEnabled="False"
+					  HorizontalAlignment="Center">
+			<TextBlock Text="&#xE0E3;"
+					   Classes="ArrowButton" />
+		</RepeatButton>
+		
+		<TextBlock Text="UP_F"
+				   Classes="UIText"
+				   Grid.Column="1"
+				   Grid.Row="3"/>
+
+		<StackPanel Grid.Column="2"
+					Grid.ColumnSpan="3"
+					Grid.Row="3"
+					VerticalAlignment="Center"
+					Margin="4">
+			<TextBlock x:Name="UpForceValue"
+					   Text="{Binding #UpForceSlider.Value}"
+					   HorizontalAlignment="Center"/>
+			<Slider x:Name="UpForceSlider"
+					Minimum = "800"
+					Maximum = "2300"
+					IsEnabled="False"/>
+		</StackPanel>
+
+		<TextBlock Text="Forward_F"
+				   Classes="UIText"
+				   Grid.Column="1"
+				   Grid.Row="4"/>
+		
+		<StackPanel Grid.Column="2"
+					Grid.ColumnSpan="3"
+					Grid.Row="4"
+					VerticalAlignment="Center"
+					Margin="4">
+			<TextBlock x:Name="ForwardValue"
+					   Text="{Binding #ForwardSlider.Value}"
+					   HorizontalAlignment="Center"/>
+			<Slider x:Name="ForwardSlider"
+					Minimum = "800"
+					Maximum = "2300"
+					IsEnabled="False"/>
+		</StackPanel>
+		
+
+		<TextBlock Text="Light"
+				   Classes="UIText"
+				   Grid.Column="1"
+				   Grid.Row="5"/>
+
+		<StackPanel Grid.Column="2"
+					Grid.ColumnSpan="3"
+					Grid.Row="5"
+					VerticalAlignment="Center"
+					Margin="4">
+			<TextBlock x:Name="LightValue"
+					   Text="{Binding #LightSlider.Value}"
+					   HorizontalAlignment="Center"/>
+			<Slider x:Name="LightSlider"
+					Maximum = "100"
+					IsEnabled="False"/>
+		</StackPanel>
+
+		<TextBlock Text="Quality"
+				   Classes="UIText"
+				   Grid.Column="1"
+				   Grid.Row="6"/>
+
+		<StackPanel Grid.Column="2"
+					Grid.ColumnSpan="3"
+					Grid.Row="6"
+					VerticalAlignment="Center"
+					Margin="4">
+			<TextBlock x:Name="QualityValue"
+					   Text="{Binding #QualitySlider.Value}"
+					   HorizontalAlignment="Center"/>
+			<Slider x:Name="QualitySlider"
+					Minimum = "240"
+					Maximum = "1080"
+					IsEnabled="False"/>
+		</StackPanel>
+
+
+		<Border BorderBrush="Black"
+				BorderThickness="1"
+				Grid.Column="0"
+				Grid.ColumnSpan="4"
+				Grid.Row="7">
+			<ScrollViewer x:Name="LogSV"
+						  Classes="LohStyleText">
+				<TextBlock Margin="5"
+						   x:Name="Loh"
+						   Text="Loh"
+						   PropertyChanged="TextBlock_PropertyChanged"
+						   Classes="LohStyleText"/>
+			</ScrollViewer>
+		</Border>
+	</Grid>
+	
+</Window>

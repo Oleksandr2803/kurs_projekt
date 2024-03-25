@@ -1,0 +1,67 @@
+
+ 24.03.2024   13:23  |    Connect to "127.0.0.15"
+ 24.03.2024   13:24  |    Stream On
+ 24.03.2024   13:24  |    Stream was reloaded
+ 24.03.2024   13:24  |    Getting photo
+ 24.03.2024   13:24  |    Dron is upped
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move RIGHT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move RIGHT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move RIGHT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move RIGHT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move RIGHT with forward power 800 and up power 800
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move LEFT with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move FORWARD with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move RIGHT with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Dron move RIGHT with forward power 2300 and up power 2300
+ 24.03.2024   13:24  |    Stream Off
+ 24.03.2024   13:24  |    Dron is landed
+ 24.03.2024   13:24  |    Disconnect from "127.0.0.15"
