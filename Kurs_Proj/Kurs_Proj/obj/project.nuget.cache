@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a1I6xPdsgh/wyBNrnyFPAXkxxIvTDHoBLIu7f+YkfB5upCUWETxcMFLwFM+0HYRngUeK+cwqSq2AHuvE9ZnkyQ==",
+  "dgSpecHash": "6dH770RpRagE9nQrQ7IQh0aITsuPDniuWENz6KXhP7hFZ2CJRfMF6EfZaPIqCNGV9MS4/b1/86QeIUAbzWEO6Q==",
   "success": true,
-  "projectFilePath": "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj",
+  "projectFilePath": "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj_rep\\kurs_projekt\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\avalonia\\11.0.6\\avalonia.11.0.6.nupkg.sha512",
     "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.0.2023020321\\avalonia.angle.windows.natives.2.1.0.2023020321.nupkg.sha512",

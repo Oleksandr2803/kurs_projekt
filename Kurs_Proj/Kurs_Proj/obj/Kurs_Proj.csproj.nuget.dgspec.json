@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj": {}
+    "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj_rep\\kurs_projekt\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj": {}
   },
   "projects": {
-    "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj": {
+    "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj_rep\\kurs_projekt\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj",
+        "projectUniqueName": "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj_rep\\kurs_projekt\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj",
         "projectName": "Kurs_Proj",
-        "projectPath": "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj",
+        "projectPath": "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj_rep\\kurs_projekt\\Kurs_Proj\\Kurs_Proj\\Kurs_Proj.csproj",
         "packagesPath": "C:\\Users\\Gyrocopter_UA\\.nuget\\packages\\",
-        "outputPath": "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj\\Kurs_Proj\\obj\\",
+        "outputPath": "D:\\HLAM\\studies\\4_kurs\\2_semestr\\TRPZ\\kurs\\program\\Kursach\\Kurs_Proj_rep\\kurs_projekt\\Kurs_Proj\\Kurs_Proj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -75,7 +75,7 @@ namespace Kurs_Proj
             }
             else if (nets.Contains(_network))
             {
-                sw = new StreamWriter("Lohs/" + $"{DateTime.Now.ToString("dd.MM.yyyy__HH.mm")}__{ip_input.Text}__LOH.txt", true);
+                sw = new StreamWriter("Lohs/" + $"{DateTime.Now.ToString("dd.MM.yyyy__HH.mm.ss")}__{ip_input.Text}__LOH.txt", true);
                 
                 GetLohDB( "Connect");
                 
@@ -158,8 +158,8 @@ namespace Kurs_Proj
 
         private void GetLog(string log)
         {
-            Loh.Text += $"\n {DateTime.Now.ToString("dd/MM/yyyy   HH:mm ")} |    " + log;
-            sw.Write($"\n {DateTime.Now.ToString("dd/MM/yyyy   HH:mm ")} |    " + log);
+            Loh.Text += $"\n {DateTime.Now.ToString()} |    " + log;
+            sw.Write($"\n {DateTime.Now.ToString()} |    " + log);
         }
         private void GetLohDB(string comand) {
             using (ApplicationContext db = new ApplicationContext())

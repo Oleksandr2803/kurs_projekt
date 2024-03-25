@@ -1,0 +1,36 @@
+
+ 25.03.2024 22:55:26 |    Connect to "127.0.0.15"
+ 25.03.2024 22:55:38 |    Dron is upped
+ 25.03.2024 22:55:39 |    Stream On
+ 25.03.2024 22:55:40 |    Stream was reloaded
+ 25.03.2024 22:55:40 |    Getting photo
+ 25.03.2024 22:55:41 |    Stream was reloaded
+ 25.03.2024 22:55:42 |    Dron move FORWARD with forward power 800 and up power 800
+ 25.03.2024 22:55:42 |    Dron move FORWARD with forward power 800 and up power 800
+ 25.03.2024 22:55:42 |    Dron move FORWARD with forward power 800 and up power 800
+ 25.03.2024 22:55:42 |    Dron move FORWARD with forward power 800 and up power 800
+ 25.03.2024 22:55:43 |    Dron move LEFT with forward power 800 and up power 800
+ 25.03.2024 22:55:43 |    Dron move LEFT with forward power 800 and up power 800
+ 25.03.2024 22:55:43 |    Dron move LEFT with forward power 800 and up power 800
+ 25.03.2024 22:55:44 |    Dron move RIGHT with forward power 800 and up power 800
+ 25.03.2024 22:55:44 |    Dron move RIGHT with forward power 800 and up power 800
+ 25.03.2024 22:55:47 |    Dron move FORWARD with forward power 2300 and up power 2300
+ 25.03.2024 22:55:47 |    Dron move LEFT with forward power 2300 and up power 2300
+ 25.03.2024 22:55:48 |    Dron move RIGHT with forward power 2300 and up power 2300
+ 25.03.2024 22:55:48 |    Dron move RIGHT with forward power 2300 and up power 2300
+ 25.03.2024 22:55:49 |    Dron move RIGHT with forward power 2300 and up power 2300
+ 25.03.2024 22:55:49 |    Dron is landed
+ 25.03.2024 22:55:50 |    Dron move FORWARD with forward power 2300 without up power
+ 25.03.2024 22:55:50 |    Dron move FORWARD with forward power 2300 without up power
+ 25.03.2024 22:55:50 |    Dron move FORWARD with forward power 2300 without up power
+ 25.03.2024 22:55:51 |    Dron move RIGHT with forward power 2300 without up power
+ 25.03.2024 22:55:51 |    Dron move RIGHT with forward power 2300 without up power
+ 25.03.2024 22:55:51 |    Dron move FORWARD with forward power 2300 without up power
+ 25.03.2024 22:55:52 |    Dron is upped
+ 25.03.2024 22:55:54 |    Stream was reloaded
+ 25.03.2024 22:55:54 |    Getting photo
+ 25.03.2024 22:55:55 |    Stream was reloaded
+ 25.03.2024 22:55:55 |    Getting photo
+ 25.03.2024 22:55:55 |    Stream Off
+ 25.03.2024 22:55:55 |    Dron is landed
+ 25.03.2024 22:55:55 |    Disconnect from "127.0.0.15"

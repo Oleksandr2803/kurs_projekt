@@ -1,9 +1,0 @@
-
- 24.03.2024   18:34  |    Connect to "112.0.12.32"
- 24.03.2024   18:35  |    Stream On
- 24.03.2024   18:36  |    Dron is upped
- 24.03.2024   18:36  |    Dron is landed
- 24.03.2024   18:36  |    Dron is upped
- 24.03.2024   18:38  |    Stream Off
- 24.03.2024   18:38  |    Dron is landed
- 24.03.2024   18:38  |    Disconnect from "112.0.12.32"

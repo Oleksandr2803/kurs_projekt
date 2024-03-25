@@ -13,13 +13,13 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kurs_Proj
-build_property.ProjectDir = D:\HLAM\studies\4_kurs\2_semestr\TRPZ\kurs\program\Kursach\Kurs_Proj\Kurs_Proj\
+build_property.ProjectDir = D:\HLAM\studies\4_kurs\2_semestr\TRPZ\kurs\program\Kursach\Kurs_Proj_rep\kurs_projekt\Kurs_Proj\Kurs_Proj\
 
-[D:/HLAM/studies/4_kurs/2_semestr/TRPZ/kurs/program/Kursach/Kurs_Proj/Kurs_Proj/App.axaml]
+[D:/HLAM/studies/4_kurs/2_semestr/TRPZ/kurs/program/Kursach/Kurs_Proj_rep/kurs_projekt/Kurs_Proj/Kurs_Proj/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/HLAM/studies/4_kurs/2_semestr/TRPZ/kurs/program/Kursach/Kurs_Proj/Kurs_Proj/MainWindow.axaml]
+[D:/HLAM/studies/4_kurs/2_semestr/TRPZ/kurs/program/Kursach/Kurs_Proj_rep/kurs_projekt/Kurs_Proj/Kurs_Proj/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/HLAM/studies/4_kurs/2_semestr/TRPZ/kurs/program/Kursach/Kurs_Proj/Kurs_Proj/Styles/AppStyles.axaml]
+[D:/HLAM/studies/4_kurs/2_semestr/TRPZ/kurs/program/Kursach/Kurs_Proj_rep/kurs_projekt/Kurs_Proj/Kurs_Proj/Styles/AppStyles.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
